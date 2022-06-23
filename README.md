@@ -45,7 +45,7 @@ Shae Sihock - Data Scientist
 [TensorFlow](tensorflow)
 
 ### Techical Stack
-[Python](https://www.python.org/) [OpenAI](https://openai.com/api/)
+[Python](https://www.python.org/), [OpenAI](https://openai.com/api/)
 
 [aitextgen](https://docs.aitextgen.io/), [GPT-2](https://github.com/openai/gpt-2)
 
